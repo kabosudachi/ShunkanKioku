@@ -14,6 +14,16 @@
 		D5724E481AB52D200049EC9F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5724E471AB52D200049EC9F /* Images.xcassets */; };
 		D5724E4B1AB52D200049EC9F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D5724E491AB52D200049EC9F /* LaunchScreen.xib */; };
 		D5724E571AB52D200049EC9F /* shunkanTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D5724E561AB52D200049EC9F /* shunkanTests.m */; };
+		D5724E611AB52EA40049EC9F /* stadot.png in Resources */ = {isa = PBXBuildFile; fileRef = D5724E601AB52EA40049EC9F /* stadot.png */; };
+		D5724E641AB53F4A0049EC9F /* shunkan.png in Resources */ = {isa = PBXBuildFile; fileRef = D5724E631AB53F4A0049EC9F /* shunkan.png */; };
+		D5724E681AB5464A0049EC9F /* まっしゅ.png in Resources */ = {isa = PBXBuildFile; fileRef = D5724E671AB5464A0049EC9F /* まっしゅ.png */; };
+		D5724E6A1AB546A50049EC9F /* sutadot.png in Resources */ = {isa = PBXBuildFile; fileRef = D5724E691AB546A50049EC9F /* sutadot.png */; };
+		D5724E6E1AB54B600049EC9F /* dothuki.png in Resources */ = {isa = PBXBuildFile; fileRef = D5724E6D1AB54B600049EC9F /* dothuki.png */; };
+		D5724E701AB54D0E0049EC9F /* まっしゅ開口.png in Resources */ = {isa = PBXBuildFile; fileRef = D5724E6F1AB54D0E0049EC9F /* まっしゅ開口.png */; };
+		D5724E721AB54E680049EC9F /* hukisaksa.png in Resources */ = {isa = PBXBuildFile; fileRef = D5724E711AB54E680049EC9F /* hukisaksa.png */; };
+		D5BD6FEC1ADA0228008E4E8D /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D5BD6FEB1ADA0228008E4E8D /* GameViewController.m */; };
+		D5BD6FEF1ADA027E008E4E8D /* ResultViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D5BD6FEE1ADA027E008E4E8D /* ResultViewController.m */; };
+		D5BD70511ADA3F37008E4E8D /* PixelMplus10-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D5BD70501ADA3D55008E4E8D /* PixelMplus10-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +50,19 @@
 		D5724E501AB52D200049EC9F /* shunkanTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = shunkanTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5724E551AB52D200049EC9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D5724E561AB52D200049EC9F /* shunkanTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = shunkanTests.m; sourceTree = "<group>"; };
+		D5724E601AB52EA40049EC9F /* stadot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stadot.png; sourceTree = "<group>"; };
+		D5724E631AB53F4A0049EC9F /* shunkan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shunkan.png; sourceTree = "<group>"; };
+		D5724E671AB5464A0049EC9F /* まっしゅ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "まっしゅ.png"; sourceTree = "<group>"; };
+		D5724E691AB546A50049EC9F /* sutadot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sutadot.png; sourceTree = "<group>"; };
+		D5724E6D1AB54B600049EC9F /* dothuki.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dothuki.png; sourceTree = "<group>"; };
+		D5724E6F1AB54D0E0049EC9F /* まっしゅ開口.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "まっしゅ開口.png"; sourceTree = "<group>"; };
+		D5724E711AB54E680049EC9F /* hukisaksa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hukisaksa.png; sourceTree = "<group>"; };
+		D5BD6FEA1ADA0228008E4E8D /* GameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
+		D5BD6FEB1ADA0228008E4E8D /* GameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
+		D5BD6FED1ADA027E008E4E8D /* ResultViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResultViewController.h; sourceTree = "<group>"; };
+		D5BD6FEE1ADA027E008E4E8D /* ResultViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResultViewController.m; sourceTree = "<group>"; };
+		D5BD70501ADA3D55008E4E8D /* PixelMplus10-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PixelMplus10-Regular.ttf"; sourceTree = "<group>"; };
+		D5FB140B1AC11217007BE675 /* misaki_gothic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = misaki_gothic.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,9 +104,22 @@
 		D5724E391AB52D200049EC9F /* shunkan */ = {
 			isa = PBXGroup;
 			children = (
+				D5FB140B1AC11217007BE675 /* misaki_gothic.ttf */,
+				D5BD70501ADA3D55008E4E8D /* PixelMplus10-Regular.ttf */,
+				D5724E711AB54E680049EC9F /* hukisaksa.png */,
+				D5724E691AB546A50049EC9F /* sutadot.png */,
+				D5724E671AB5464A0049EC9F /* まっしゅ.png */,
+				D5724E601AB52EA40049EC9F /* stadot.png */,
+				D5724E631AB53F4A0049EC9F /* shunkan.png */,
+				D5724E6D1AB54B600049EC9F /* dothuki.png */,
+				D5724E6F1AB54D0E0049EC9F /* まっしゅ開口.png */,
+				D5BD6FEA1ADA0228008E4E8D /* GameViewController.h */,
+				D5BD6FEB1ADA0228008E4E8D /* GameViewController.m */,
 				D5724E3E1AB52D200049EC9F /* AppDelegate.h */,
 				D5724E3F1AB52D200049EC9F /* AppDelegate.m */,
 				D5724E411AB52D200049EC9F /* ViewController.h */,
+				D5BD6FED1ADA027E008E4E8D /* ResultViewController.h */,
+				D5BD6FEE1ADA027E008E4E8D /* ResultViewController.m */,
 				D5724E421AB52D200049EC9F /* ViewController.m */,
 				D5724E441AB52D200049EC9F /* Main.storyboard */,
 				D5724E471AB52D200049EC9F /* Images.xcassets */,
@@ -199,8 +235,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5BD70511ADA3F37008E4E8D /* PixelMplus10-Regular.ttf in Resources */,
+				D5724E721AB54E680049EC9F /* hukisaksa.png in Resources */,
+				D5724E681AB5464A0049EC9F /* まっしゅ.png in Resources */,
+				D5724E611AB52EA40049EC9F /* stadot.png in Resources */,
+				D5724E6E1AB54B600049EC9F /* dothuki.png in Resources */,
+				D5724E701AB54D0E0049EC9F /* まっしゅ開口.png in Resources */,
+				D5724E6A1AB546A50049EC9F /* sutadot.png in Resources */,
 				D5724E461AB52D200049EC9F /* Main.storyboard in Resources */,
 				D5724E4B1AB52D200049EC9F /* LaunchScreen.xib in Resources */,
+				D5724E641AB53F4A0049EC9F /* shunkan.png in Resources */,
 				D5724E481AB52D200049EC9F /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -219,8 +263,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5BD6FEC1ADA0228008E4E8D /* GameViewController.m in Sources */,
 				D5724E431AB52D200049EC9F /* ViewController.m in Sources */,
 				D5724E401AB52D200049EC9F /* AppDelegate.m in Sources */,
+				D5BD6FEF1ADA027E008E4E8D /* ResultViewController.m in Sources */,
 				D5724E3D1AB52D200049EC9F /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -412,6 +458,7 @@
 				D5724E5C1AB52D200049EC9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D5724E5D1AB52D200049EC9F /* Build configuration list for PBXNativeTarget "shunkanTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +467,7 @@
 				D5724E5F1AB52D200049EC9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
